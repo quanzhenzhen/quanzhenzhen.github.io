@@ -1,1 +1,3 @@
-This is the first news
+---
+title: "Paper Title Number 1"
+---
