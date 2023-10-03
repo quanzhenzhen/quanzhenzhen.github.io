@@ -1,6 +1,6 @@
 ---
 title: "Test News 1"
-collection: publications
+collection: News
 permalink: /news/news1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-03
