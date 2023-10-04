@@ -1,2 +1,11 @@
-# main links links
 main:
+  - title: "📄 Publications"
+    url: /publication  
+  - title: "📰 News"
+    url: /news  
+  - title: "👨🏻‍🏫 Talks"
+    url: /talk 
+  - title: "🎓 Education"
+    url: /education 
+  - title: "🏅 Awards"
+    url: /award 
