@@ -20,7 +20,6 @@ News
   <ul>{% for post in site.news %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</style>
 
 
 Publications
@@ -28,7 +27,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</style>
 
 
 Talks
@@ -36,18 +34,15 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</style>
 
 Education
 ======
   <ul>{% for post in site.education %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</style>
 
 Awards
 ======
   <ul>{% for post in site.award %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</style>
