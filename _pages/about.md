@@ -22,13 +22,13 @@ News
 
 Publications
 ======
-  {% include_relative publications.md %}
+  {% include_relative publication.md %}
 
 
 
 Talks
 ======
-  {% include_relative talks.md %}
+  {% include_relative talk.md %}
 
 Education
 ======
