@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🙋🏻‍♂️ About me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,22 +15,22 @@ Prior to Nagoya University, I obtained my B.ENG and M.ENG in Information and Com
 Lately, I’ve been focusing on Open-Vocabulary Vision tasks.
 
 
-News
+📰 News
 ======
   {% include_relative news.md %}
 
-Publications
+📖 Publications
 ======
   {% include_relative publication.md %}
 
-Talks
+👨🏻‍🏫 Talks
 ======
   {% include_relative talk.md %}
 
-Education
+🎓 Education
 ======
   {% include_relative education.md %}
 
-Awards
+🏅 Awards
 ======
   {% include_relative award.md %}
