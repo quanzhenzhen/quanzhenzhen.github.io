@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "📄 Publications"
-    url: /publications  # 使用绝对路径指向 publications.md
+    url: /publication  # 使用绝对路径指向 publications.md
   - title: "📰 News"
     url: /news  # 使用绝对路径指向 news.md
   - title: "👨🏻‍🏫 Talks"
-    url: /talks  # 使用绝对路径指向 talks.md
+    url: /talk  # 使用绝对路径指向 talks.md
   - title: "🎓 Education"
     url: /education  # 使用绝对路径指向 education.md
   - title: "🏅 Awards"
