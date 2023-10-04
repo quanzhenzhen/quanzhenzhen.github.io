@@ -33,4 +33,4 @@ Education
 
 Awards
 ======
-  {% include_relative awards.md %}
+  {% include_relative award.md %}
