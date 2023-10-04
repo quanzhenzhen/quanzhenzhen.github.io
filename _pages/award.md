@@ -3,9 +3,6 @@ layout: archive
 title: "My Awards"
 permalink: /award/
 author_profile: true
-redirect_from: 
-  - /award/
-  - /award.html
 ---
 
 * China Scholarship Council 2022.10
