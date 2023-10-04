@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Here are some of the selections from my [Google Scholar](https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN)
 
-{% include base_path %}
+**Computers in Biology and Medicine**[Uncertainty teacher with dense focal loss for semi-supervised medical image segmentation] (https://www.sciencedirect.com/science/article/pii/S001048252200751X)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
