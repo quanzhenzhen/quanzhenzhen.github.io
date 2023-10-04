@@ -24,7 +24,7 @@ News
 
 Publications
 ======
-  {% include_relative publication.md %}
+  {% include_relative publications.md %}
 
 
 
