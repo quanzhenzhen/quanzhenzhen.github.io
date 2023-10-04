@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "What's new about me"
-permalink: /news/
+title: "Talks and Presentations"
+permalink: /talks/
 author_profile: true
 ---
