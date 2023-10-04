@@ -19,12 +19,9 @@ News
 ======
   {% include_relative news.md %}
 
-
 Publications
 ======
   {% include_relative publication.md %}
-
-
 
 Talks
 ======
