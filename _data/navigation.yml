@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "📄 Publications"
-    url: /publications.md/
+    url: /_pages/publications.md/
 
   - title: "📰 News"
-    url: /news.md/
+    url: /_pages/news.md/
 
   - title: "👨🏻‍🏫 Talks"
-    url: /talks.md/
+    url: /_pages/talks.md/
     
   - title: "🎓 Education"
-    url: /education.md/
+    url: /_pages/education.md/
 
   - title: "🏅 Awards"
-    url: /awards.md/
+    url: /_pages/awards.md/
