@@ -17,9 +17,7 @@ Lately, I’ve been focusing on Open-Vocabulary Vision tasks.
 
 News
 ======
-  <ul>{% for post in site.news %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% include_relative news.md %}
 
 
 Publications
@@ -30,18 +28,12 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% include_relative talks.md %}
 
 Education
 ======
-  <ul>{% for post in site.education %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% include_relative education.md %}
 
 Awards
 ======
-  <ul>{% for post in site.award %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% include_relative awards.md %}
