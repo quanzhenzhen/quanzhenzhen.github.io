@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a second-year Ph.D. student at VLISLab, Nagoya University, interested in high-level CV topics from detection to segmentation vision.
+I’m a second-year Ph.D. student supervised by [Daisuke Deguchi](https://scholar.google.com.hk/citations?hl=zh-CN&user=OO215U0AAAAJ) and [Hiroshi Murase](https://scholar.google.com.hk/citations?hl=zh-CN&user=T2O1-JgAAAAJ) at [VisLab](https://www.vislab.is.i.nagoya-u.ac.jp), Nagoya University, interested in high-level CV topics from detection to segmentation vision.
 
 Prior to Nagoya University, I obtained my B.ENG and M.ENG in Information and Communication Engineering from Northeastern University (NEU), where I focused on medical image analysis.
 
