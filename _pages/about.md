@@ -23,10 +23,6 @@ Lately, I’ve been focusing on Open-Vocabulary Vision tasks.
 ======
   {% include_relative publication.md %}
 
-👨🏻‍🏫 Talks
-======
-  {% include_relative talk.md %}
-
 🎓 Education
 ======
   {% include_relative education.md %}
