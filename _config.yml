@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HomePage"
+title                    : "Jialei Chen"
 title_separator          : "-"
 name                     : &name "Jialei Chen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jialei Chen"
   avatar           : "profile.png"
-  bio              : "日拱一卒"
+  bio              : "A PhD student in Nagoya University"
   location         : "Nagoya, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
