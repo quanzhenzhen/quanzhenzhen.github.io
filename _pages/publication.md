@@ -1,6 +1,6 @@
 Here are some of the selections from my [Google Scholar](https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN)
 
-<u>Jialei Chen</u>, Chong Fu, Haoyu Xie, Xu Zheng, Chiu-Wing Sham, [Uncertainty teacher with dense focal loss for semi-supervised medical image segmentation.](https://www.sciencedirect.com/science/article/pii/S001048252200751X), **Computers in Biology and Medicine** 
+<u>Zhenzhen Quan</u>, Qingshan Chen, Moyan Zhang, Weifeng Hu, Qiang Zhao, Jiangang Hou, Yujun Li, Zhi Liu, [MAWKDN: A Multimodal Fusion Wavelet Knowledge Distillation Approach Based on Cross-View Attention for Action Recognition.](https://ieeexplore.ieee.org/document/10066208), **IEEE Transactions on Circuits and Systems for Video Technology** 
 
 <u>Jialei Chen</u>, Daisuke Deguchi, Chenkai Zhang, Xu Zheng, Hiroshi Murase, [Frozen is Better than Learning: A New Design of Prototype-based Classifier for Semantic Segmentation.](https://doi.org/10.1016/j.patcog.2024.110431), **Pattern Recognition** 
 
