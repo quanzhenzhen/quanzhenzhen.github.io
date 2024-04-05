@@ -1,3 +1,9 @@
-China Scholarship Council 2022.10
-HUAWEI CLOUD EI Contest 2020 Autonomous Driving Cup: Certification of Merit 2020.10
-First Class Master Scholarship of Northeastern University (20%) 2019.9
+* 2019.4 - 2020.8
+  Driver Software Engineer Hisense Visual Technology Company Limited, Qingdao, China
+* 2017.3 - 2019.3
+  Embedded Software development engineer Qingdao Goertek Acoustics Technology Company Limited, Qingdao, China
+
+  
+
+
+
