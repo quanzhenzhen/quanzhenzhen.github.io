@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jialei Chen"
+title                    : "Zhenzhen Quan"
 title_separator          : "-"
-name                     : &name "Jialei Chen"
+name                     : &name "Zhenzhen Quan"
 description              : &description "personal description"
 url                      : #https://psmobile.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jialei Chen"
+  name             : "Zhenzhen Quan"
   avatar           : "profile.png"
-  bio              : "A PhD student in Nagoya University"
+  bio              : "A PhD student in Shandong University"
   location         : "Nagoya, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN"
-  email            : "jialeichen2021@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=jHSMkwIAAAAJ"
+  email            : "quanzhenzhen0519@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
