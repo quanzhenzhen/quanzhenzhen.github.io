@@ -4,7 +4,7 @@
 
 * 2023.06.20 The paper [**MSIF: multi‑spectrum image fusion method for cross‑modality person re‑identification**](https://link.springer.com/article/10.1007/s13042-023-01932-4) is accepted by **International Journal of Machine Learning and Cybernetics**
 
-[arctic]()* 2023.09.28 The paper [**ARCTIC: A knowledge distillation approach via attention-based relation matching and activation region constraint for RGB-to-Infrared videos action recognition**](https://www.sciencedirect.com/science/article/pii/S1077314223002333) is accepted by **Computer Vision and Image Understanding**
+* 2023.09.28 The paper [**ARCTIC: A knowledge distillation approach via attention-based relation matching and activation region constraint for RGB-to-Infrared videos action recognition**](https://www.sciencedirect.com/science/article/pii/S1077314223002333) is accepted by **Computer Vision and Image Understanding**
 
 * 2023.10.16 The paper [**An Unsupervised Domain Adaption Approach for Cross-Modality RGB-Infrared Person Re-Identification**](https://ieeexplore.ieee.org/abstract/document/10295407) is accepted by **IEEE Sensors Journal**
 
