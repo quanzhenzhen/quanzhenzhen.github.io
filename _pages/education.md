@@ -1,4 +1,4 @@
-* 2019.9 - 2022.6
+* 2014.9 - 2017.6
   M.E NorthEastern University, Shenyang, China
-* 2015.9 - 2019.6
-  B.E NorthEastern University, Shenyang, China
+* 2010.9 - 2014.6
+  B.E Shandong University of Science andTechnology, Qingdao, China
