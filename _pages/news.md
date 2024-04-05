@@ -11,4 +11,3 @@
 * 2023.11.26 The paper [**SMTDKD: A Semantic-Aware Multimodal Transformer Fusion Decoupled Knowledge Distillation Method for Action Recognition**](https://ieeexplore.ieee.org/document/10345487) is accepted by **IEEE Sensors Journal**
 
 * 2024.04.05 The paper [**Attention-Based Semantic-Guided Multi-Stream Graph Convolution Network for Skeleton Action Recognition**]() is accepted by **IEEE Sensors Journal**
-**
