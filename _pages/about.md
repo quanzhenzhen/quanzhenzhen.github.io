@@ -23,10 +23,10 @@ I’m a forth-year Ph.D. student supervised by [Yujun Li](https://scholar.google
 ======
   {% include_relative education.md %}
 
-🔨 Work Experiences
-======
-  {% include_relative education.md %}
-
 🏅 Awards
 ======
   {% include_relative award.md %}
+
+   Academic Services
+======
+  {% include_relative services.md %}
