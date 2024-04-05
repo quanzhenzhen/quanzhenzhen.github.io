@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a forth-year Ph.D. student supervised by [Yujun Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=Auim7fcAAAAJ) at Shandong University.
+I’m a forth-year Ph.D. student supervised by [Yujun Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=Auim7fcAAAAJ) at Shandong University. Joint training has been held at [vislab](https://www.vislab.is.i.nagoya-u.ac.jp/), Nagoya University starting from March 1st.
 
 
 📰 News
