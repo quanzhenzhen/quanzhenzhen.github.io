@@ -13,6 +13,6 @@ Qingshan Chen, <u>Zhenzhen Quan</u>, Yujun Li, Chao Zhai, Mikhail G. Mozerov, [A
 
 <u>Zhenzhen Quan</u>, Qingshan Chen, Wei Wang, Moyan Zhang, Xiang Li, Yujun Li, Zhi Liu, [SMTDKD: A Semantic-Aware Multimodal Transformer Fusion Decoupled Knowledge Distillation Method for Action Recognition.](https://ieeexplore.ieee.org/document/10345487), **IEEE Sensors Journal**
 
-Moyan Zhang, <u>Zhenzhen Quan</u>, Wei Wang, Zhe Chen, Xiaoshan Guo, Yujun Li, [Attention-Based Semantic-Guided Multi-Stream Graph Convolution Network for Skeleton Action Recognition.](https://ieeexplore.ieee.org/abstract/document/10505150), (co-author, 2/2)**IEEE Sensors Journal**
+Moyan Zhang, <u>Zhenzhen Quan</u>, Wei Wang, Zhe Chen, Xiaoshan Guo, Yujun Li, [Attention-Based Semantic-Guided Multi-Stream Graph Convolution Network for Skeleton Action Recognition.](https://ieeexplore.ieee.org/abstract/document/10505150), (co-author, 2/2), **IEEE Sensors Journal**
 
 
