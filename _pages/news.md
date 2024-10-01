@@ -10,6 +10,6 @@
 
 * 2023.11.26 The paper [**SMTDKD: A Semantic-Aware Multimodal Transformer Fusion Decoupled Knowledge Distillation Method for Action Recognition**](https://ieeexplore.ieee.org/document/10345487) is accepted by **IEEE Sensors Journal**
 
-* 2024.04.05 The paper [**Attention-Based Semantic-Guided Multi-Stream Graph Convolution Network for Skeleton Action Recognition**](https://ieeexplore.ieee.org/abstract/document/10505150) is accepted by **IEEE Sensors Journal**
+* 2024.04.05 The paper [**ASMGCN: Attention-Based Semantic-Guided Multistream Graph Convolution Network for Skeleton Action Recognition**](https://ieeexplore.ieee.org/abstract/document/10505150) is accepted by **IEEE Sensors Journal**
  
 * 2024.05.18 The paper [**MSSA: Multi-Spectral Semantic Alignment for Cross-Modality Infrared-RGB Person Re-Identification**](https://ieeexplore.ieee.org/document/10581875) is accepted by **IEEE Transactions on Computational Social Systems**
