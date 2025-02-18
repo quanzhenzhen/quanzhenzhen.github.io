@@ -17,4 +17,4 @@
 * 2025.01.19 The paper [**Semantic Matters: A Constrained Approach for Zero-shot Video Action Recognition**](https://doi.org/10.1016/j.patcog.2025.111402) is accepted by **Pattern Recognition**
 
 * 2025.01.22 The paper [**Multi-scale patch transformer with adaptive decomposition for carbon
-emissions forecasting**](https://authors.elsevier.com/c/1kdDV3OWJ9CRP2) is accepted by **Pattern Recognition**
+emissions forecasting**](https://authors.elsevier.com/c/1kdDV3OWJ9CRP2) is accepted by **Engineering Applications of Artificial Intelligence**
