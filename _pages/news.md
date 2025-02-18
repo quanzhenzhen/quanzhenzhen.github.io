@@ -15,3 +15,6 @@
 * 2024.05.18 The paper [**MSSA: Multi-Spectral Semantic Alignment for Cross-Modality Infrared-RGB Person Re-Identification**](https://ieeexplore.ieee.org/document/10581875) is accepted by **IEEE Transactions on Computational Social Systems**
   
 * 2025.01.19 The paper [**Semantic Matters: A Constrained Approach for Zero-shot Video Action Recognition**]() is accepted by **Pattern Recognition**
+
+* 2025.01.22 The paper [**Multi-scale patch transformer with adaptive decomposition for carbon
+emissions forecasting**](https://authors.elsevier.com/c/1kdDV3OWJ9CRP2) is accepted by **Pattern Recognition**
