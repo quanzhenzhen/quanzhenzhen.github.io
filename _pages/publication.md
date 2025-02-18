@@ -19,6 +19,6 @@ Qingshan Chen, <u>Zhenzhen Quan</u>, Yujun Li, Chao Zhai, Mikhail G. Mozerov, [A
 
 Qingshan Chen, Moyan Zhang, <u>Zhenzhen Quan</u>, Yumeng Zhang, Mikhail G. Mozerov, Chao Zhai, Hongjuan Li, Yujun Li, [MSSA: Multi-Spectral Semantic Alignment for Cross-Modality Infrared-RGB Person Re-Identification.](https://ieeexplore.ieee.org/document/10581875), **IEEE Transactions on Computational Social Systems**
 
-Xiang Li, Lei Chu, Yujun Li, Fengqian Ding, <u>Zhenzhen Quan</u>, Fangx Qu, Zhanjun Xing, [Multi-scale patch transformer with adaptive decomposition for carbon emissions forecasting.](https://authors.elsevier.com/c/1kdDV3OWJ9CRP2), **Engineering Applications of Artificial Intelligence**
+Xiang Li, Lei Chu, Yujun Li, Fengqian Ding, <u>Zhenzhen Quan</u>, Fangxu Qu, Zhanjun Xing, [Multi-scale patch transformer with adaptive decomposition for carbon emissions forecasting.](https://authors.elsevier.com/c/1kdDV3OWJ9CRP2), **Engineering Applications of Artificial Intelligence**
 
 
