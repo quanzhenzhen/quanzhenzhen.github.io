@@ -3,7 +3,7 @@ Here are some of the selections from my [Google Scholar](https://scholar.google.
 <u>Zhenzhen Quan</u>, Qingshan CHen, Moyan Zhang, Weifeng Hu, Qiang Zhao, Jiangang Hou, Yujun Li, Zhi Liu. [MAWKDN: A Multimodal Fusion Wavelet Knowledge Distillation Approach Based on Cross-View Attention for Action Recognition.](https://ieeexplore.ieee.org/document/10066208), **IEEE Transactions on Circuits and Systems for Video Technology**
 
 <u>Zhenzhen Quan</u>, Jialei CHen, Daisuke Deguchi, Jie Sun, Chenkai
-Zhangb, Yujun Li, Hiroshi Murase. [Semantic Matters: A Constrained Approach for Zero-shot Video Action Recognition.](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=jHSMkwIAAAAJ&citation_for_view=jHSMkwIAAAAJ:Y0pCki6q_DkC), **Pattern Recognition**
+Zhangb, Yujun Li, Hiroshi Murase. [Semantic Matters: A Constrained Approach for Zero-shot Video Action Recognition.](https://doi.org/10.1016/j.patcog.2025.111402), **Pattern Recognition**
 
 <u>Zhenzhen Quan</u>, Qingshan Chen, Yujun Li, Zhi Liu, Yan Cui, [ARCTIC: A knowledge distillation approach via attention-based relation matching and activation region constraint for RGB-to-Infrared videos action recognition.](https://www.sciencedirect.com/science/article/pii/S1077314223002333), **Computer Vision and Image Understanding**
 
